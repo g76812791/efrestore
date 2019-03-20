@@ -1,0 +1,14 @@
+D:\d\yuyin\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+D:\d\yuyin\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+D:\d\yuyin\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+D:\d\yuyin\ConsoleApplication3\ConsoleApplication3\bin\Debug\EntityFramework.dll
+D:\d\yuyin\ConsoleApplication3\ConsoleApplication3\bin\Debug\EntityFramework.SqlServer.dll
+D:\d\yuyin\ConsoleApplication3\ConsoleApplication3\bin\Debug\EntityFramework.xml
+D:\d\yuyin\ConsoleApplication3\ConsoleApplication3\bin\Debug\EntityFramework.SqlServer.xml
+D:\d\yuyin\ConsoleApplication3\ConsoleApplication3\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\d\yuyin\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+D:\d\yuyin\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+D:\d\yuyin\ConsoleApplication3\ConsoleApplication3\bin\Debug\AutoMapper.dll
+D:\d\yuyin\ConsoleApplication3\ConsoleApplication3\bin\Debug\EntityFramework.Extended.dll
+D:\d\yuyin\ConsoleApplication3\ConsoleApplication3\bin\Debug\EntityFramework.Extended.xml
+D:\d\yuyin\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
